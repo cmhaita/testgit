@@ -1,3 +1,3 @@
 #!/bin/python
 
-print '{0}.world'.format('hello1212')
+print '{0}.world'.format('abc')
